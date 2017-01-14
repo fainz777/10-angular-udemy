@@ -1,0 +1,20 @@
+[
+	{
+		"id": 1,
+		"name": "Hardware Repair",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel dignissimos natus corporis fugiat dolorem reiciendis aperiam. Quidem quos dignissimos adipisci recusandae asperiores natus rerum facere quas alias dolores possimus, et.",
+		"image": "http://image.flaticon.com/icons/svg/201/201559.svg"
+	},
+	{
+		"id": 2,
+		"name": "Virus Removal",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel dignissimos natus corporis fugiat dolorem reiciendis aperiam. Quidem quos dignissimos adipisci recusandae asperiores natus rerum facere quas alias dolores possimus, et.",
+		"image": "http://image.flaticon.com/icons/svg/201/201559.svg"
+	},
+	{
+		"id": 3,
+		"name": "System Turnup",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel dignissimos natus corporis fugiat dolorem reiciendis aperiam. Quidem quos dignissimos adipisci recusandae asperiores natus rerum facere quas alias dolores possimus, et.",
+		"image": "http://image.flaticon.com/icons/svg/201/201559.svg"
+	}
+]
